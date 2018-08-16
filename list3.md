@@ -213,39 +213,39 @@
 213. endow 																					赋予 捐赠
 214. designate 																						指定
 215. tackle 																						应对 处理
-216. prosecute 										起诉 控告
-217. abolish 											废除
-218. bestow 												授予
-219. requisite 										必要的
-220. exempt 											免除
-221. invoke 											引述；祈求
-222. entrust 											委托 托付
-223. spacious 										宽敞的
-224. eligible 										合格的
-225. strenuous 										费力的
-226. wrench 									歪曲 扭伤
-227. confiscate 											没收
-228. ferocious 									凶猛的 强烈的
-229. consign 										委托 托运
-230. grapple 											抓住
-231. deviate 											脱离
-232. prodigious 									大的惊人的
-233. encroach 										侵占
-234. embody 										表现 体现
-235. confer 											授予
-236. subdue 												制服
-237. vicinity 													附近
-238. tentative 										试探性的 临时的 犹豫的
-239. pillage 													掠夺
-240. pinnacle 											顶点
-241. ailment 												疾病
-242. preoccupied 									全神贯注的
-243. exhale 											呼出 -inhale
-244. rebuke 													指责
-245. cavalier 														漫不经心的 随意的 -骑士
-246. heredity												遗传
-247. deflect 												使偏离
-248. finesse 												技巧 手段
+216. prosecute 																起诉 控告
+217. abolish 																	废除
+218. bestow 																	授予
+219. requisite 															必要的
+220. exempt 																	免除
+221. invoke 																引述；祈求
+222. entrust 																委托 托付
+223. spacious 															宽敞的
+224. eligible 															合格的
+225. strenuous 														费力的
+226. wrench 															歪曲 扭伤
+227. confiscate 															没收
+228. ferocious 															凶猛的 强烈的
+229. consign 																委托 托运
+230. grapple 																	抓住
+231. deviate 																		脱离
+232. prodigious 															大的惊人的
+233. encroach 															侵占
+234. embody 															表现 体现
+235. confer 																授予
+236. subdue 																	制服
+237. vicinity 																		附近
+238. tentative 															试探性的 临时的 犹豫的
+239. pillage 																掠夺
+240. pinnacle 															顶点
+241. ailment 																	疾病
+242. preoccupied 															全神贯注的
+243. exhale 																	呼出 -inhale
+244. rebuke 																		指责
+245. cavalier 																漫不经心的 随意的 -骑士
+246. heredity																	遗传
+247. deflect 																		使偏离
+248. finesse 																	技巧 手段
 249. belated 												迟的 
 250. sheer 														完全的；陡峭的
 251. levity 														轻率
@@ -409,5 +409,5 @@
 409. lenient					仁慈的 宽容的
 410. rectitude				正直
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjEyMDkwN119
+eyJoaXN0b3J5IjpbODI2MTMxMjM3XX0=
 -->
